@@ -1,0 +1,2 @@
+include ':Inclass1Project'
+rootProject.name='CENG319'
