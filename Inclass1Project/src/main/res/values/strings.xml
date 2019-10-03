@@ -3,4 +3,10 @@
     <string name="button">Button</string>
     <string name="riding">riding</string>
     <string name="textview">Sample</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="todo">TODO</string>
+    <string name="sample">sample</string>
+    <string name="does_nothing">does nothing</string>
+    <string name="Switch">Switch</string>
+    <string name="todo2">TODO2</string>
 </resources>
